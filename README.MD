@@ -34,6 +34,7 @@ A collections of links of technical articles, videos and courses from arround th
 	https://github.com/jlevy/the-art-of-command-line#readme
 
 #CRYPTOGRAPHY & SECURITY:
+	https://portswigger.net/web-security/learning-path
 	https://portswigger.net/web-security/cross-site-scripting
 	https://hackertyper.net/#
 	https://www.khanacademy.org/computing/computer-science/cryptography	
