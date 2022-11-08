@@ -75,3 +75,6 @@ A collections of links of technical articles, videos and courses from arround th
 	https://www.pdfdrive.com/python-programming-for-the-absolute-beginner-d34494394.html
 	https://ptgmedia.pearsoncmg.com/images/9780735619654/samplepages/9780735619654.pdf 
 	https://www.academia.edu/20239168/Mc_Graw_Hill_Luis_Joyanes_Aguilar_Fundamentos_de_Programacion_Libro_de_Problemas
+
+#VIM:
+	https://vim.rtorr.com/
