@@ -3,6 +3,7 @@ Bookmarks
 A collections of links of technical articles, videos and courses from arround the web.
 
 #PROGRAMMING ========================================================================
+	https://recursosparaprogramadore5.netlify.app/
 
 #FUNDAMENTALS:
 	CS50X computer science course:  https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home
