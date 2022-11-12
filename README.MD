@@ -23,6 +23,7 @@ A collections of links of technical articles, videos and courses from arround th
 
 #GIT & GOOGLE:
 	https://git-scm.com/book/en/v2
+	https://www.conventionalcommits.org/en/v1.0.0/
 	https://www.youtube.com/watch?v=cEBkvm0-rg0&ab_channel=Fireship
 
 #lINUX & TERMINAL:
