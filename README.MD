@@ -41,6 +41,8 @@ A collections of links of technical articles, videos and courses from arround th
 	https://hackertyper.net/#
 	https://www.khanacademy.org/computing/computer-science/cryptography	
 	https://blog.shoebpatel.com/2021/01/23/The-Secret-Parameter-LFR-and-Potential-RCE-in-NodeJS-Apps/
+	https://www.youtube.com/watch?v=pdC3H8SX-F4&ab_channel=HusseinNasser
+	https://owasp.org/projects/
 
 #PRACTICE PAGES:
 	https://www.hackerrank.com/challenges/cpp-hello-world/problem?isFullScreen=true
