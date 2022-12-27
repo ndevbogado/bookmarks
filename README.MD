@@ -64,6 +64,17 @@ A collections of links of technical articles, videos and courses from arround th
 	https://thenumb.at/cpp-course/
 	https://www.cprogramming.com/challenge.html?inl=nv
 
+# C#(c-sharp):
+	https://www.udemy.com/course/understandingc/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-qcwMx5BONXqClt1xe0H1ZQ&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads
+
+	https://www.udemy.com/course/programming-fundamentals-the-basics-with-c-for-beginners/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-bx0vIGERB_io.CQkuiNwoQ&utm_source=aff-campaign&LSNPUBID=JVFxdTr9V80&utm_medium=udemyads
+
+	https://www.udemy.com/course/basics-of-object-oriented-programming-with-csharp/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-tX2VWbqrkcSnt9S_bswKPQ&utm_medium=udemyads&utm_source=aff-campaign
+
+	https://www.udemy.com/course/c-from-beginner-to-pro-build-a-windowsui-app-in-winforms/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-vttZsTDm3UyDvm8bIKzidQ&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads
+
+	(+advanced) https://www.udemy.com/course/intro-tdd/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-1YWzJNTyTnvasoO7xt3lGQ&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads
+
 #HTML & CSS:
 	https://flexbox.malven.co/
 
