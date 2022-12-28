@@ -27,6 +27,8 @@ A collections of links of technical articles, videos and courses from arround th
 	https://www.youtube.com/watch?v=cEBkvm0-rg0&ab_channel=Fireship
 
 #lINUX & TERMINAL:
+	https://devhints.io/bash
+
 	https://swcarpentry.github.io/shell-novice/
 	https://files.fosswire.com/2007/08/fwunixref.pdf
 	https://ivanaugustobd.medium.com/your-terminal-can-be-much-much-more-productive-5256424658e8
